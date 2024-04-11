@@ -1,0 +1,59 @@
+_repo: The-giant-horse-of-Oz_73170
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Neill, John R. (John Rea)
+    alias: Neill, John Rea
+    birthdate: 1877
+    deathdate: 1943
+    gutenberg_agent_id: '26521'
+    url: http://www.gutenberg.org/2009/agents/26521
+    wikipedia: http://en.wikipedia.org/wiki/John_R._Neill
+  other_contributor:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Van Dyne, Edith
+    - Bancroft, Laura
+    - Baum, Lyman Frank
+    - Metcalf, Suzanne
+    - Akers, Floyd
+    - Cooke, John Estes
+    - Fitzgerald, Capt. Hugh
+    - Fitzgerald, Hugh
+    - Staunton, Schuyler
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: https://en.wikipedia.org/wiki/L._Frank_Baum
+creator:
+  author:
+    agent_name: Thompson, Ruth Plumly
+    birthdate: 1893
+    deathdate: 1976
+    gutenberg_agent_id: '34661'
+    url: http://www.gutenberg.org/2009/agents/34661
+    wikipedia: https://en.wikipedia.org/wiki/Ruth_Plumly_Thompson
+description: ''
+gutenberg_issued: '2024-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73170'
+  lccn: '28013881'
+language: en
+pgterms:marc905: 20230302050547thompson
+pgterms:marc906: '1928'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bThe Reilly & Lee Co., $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Oz (Imaginary place) -- Juvenile fiction'
+- !lcsh 'Fantasy fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The giant horse of Oz
+url: http://www.gutenberg.org/ebooks/73170
