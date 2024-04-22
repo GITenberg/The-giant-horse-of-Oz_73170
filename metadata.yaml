@@ -26,6 +26,9 @@ contributor:
     gutenberg_agent_id: '42'
     url: http://www.gutenberg.org/2009/agents/42
     wikipedia: https://en.wikipedia.org/wiki/L._Frank_Baum
+covers:
+- cover_type: archival
+  image_path: 73170-h/images/cover.jpg
 creator:
   author:
     agent_name: Thompson, Ruth Plumly
@@ -35,6 +38,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34661
     wikipedia: https://en.wikipedia.org/wiki/Ruth_Plumly_Thompson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73170#The-giant-horse-of-Oz
 gutenberg_issued: '2024-03-15'
 gutenberg_type: Text
 identifiers:
